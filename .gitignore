@@ -1,4 +1,7 @@
 llama/
 Llama-2-13b-hf/
 llama-13b/
-weights/adapter_model.bin
+weights/
+cuda_12.3.1_545.23.08_linux.run
+cuda_env/
+win_cuda_env/

@@ -1,0 +1,13 @@
+For WSL2:
+source ~/.bashrc
+source cuda_env/bin/activate
+
+
+For Windows:
+- start Anaconda Powershell Prompt
+
+.\win_cuda_env\Scripts\Activate
+
+
+
+
